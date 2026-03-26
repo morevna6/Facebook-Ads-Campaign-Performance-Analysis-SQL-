@@ -31,6 +31,12 @@ A second query identifies the campaign with the highest ROMI among campaigns wit
 
 ---
 
+## Tools Used
+- PostgreSQL
+- DBeaver
+
+---
+
 ## SQL Query
 
 ```sql
