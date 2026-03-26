@@ -7,7 +7,7 @@ The analysis focuses on campaign efficiency, engagement, and return on investmen
 
 ---
 
-## 🗂 Dataset
+## Dataset
 - `facebook_ads_basic_daily`
 
 ---
